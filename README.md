@@ -8,9 +8,9 @@ Aplicação web para cadastro e gerenciamento de cães, desenvolvida com HTML, C
 
 ---
 
-├── Pedro Takeshita
-├── Marcelo Castro
-└── Otavio Rodrigues
+│ Pedro Takeshita
+│ Marcelo Castro
+│ Otavio Rodrigues
 
 ---
 
