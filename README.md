@@ -4,6 +4,16 @@ Aplicação web para cadastro e gerenciamento de cães, desenvolvida com HTML, C
 
 ---
 
+## Participantes do desenvolvimento
+
+---
+
+├── Pedro Takeshita
+├── Marcelo Castro
+└── Otavio Rodrigues
+
+---
+
 ## Funcionalidades
 
 - **Cadastro de pets** com nome, tutor, raça, idade, sexo, peso, cor da pelagem e observações
